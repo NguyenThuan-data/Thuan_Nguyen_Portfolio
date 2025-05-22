@@ -1,4 +1,4 @@
-# Thuan Nguyen Portfolio
+# Projects Highlight and Overview
 
 ## Data Science Projects 
 
