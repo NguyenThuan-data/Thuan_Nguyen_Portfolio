@@ -6,7 +6,7 @@
 * This project involves a comprehensive exploration and analysis of a car dataset to understand the key factors that influence car pricing, fuel efficiency, and market segmentation.
 * The analysis includes data preprocessing, visualizations, statistical summaries, and insights derived from multivariate techniques.
 
-### [Project 2:Employee Performance Analysis](https://github.com/NguyenThuan-data/School_Project_2_Employee_Performance_Analysis)
+### [Project 2: Employee Performance Analysis](https://github.com/NguyenThuan-data/School_Project_2_Employee_Performance_Analysis)
 * Analyzed a dataset of 7,000+ employee records across 20+ features to understand patterns and drivers of employee performance in a corporate environment
 * Conducted exploratory data analysis (EDA) using Python libraries (pandas, seaborn, matplotlib) to visualize trends, detect anomalies, and uncover feature relationships
 * Performed data cleaning by identifying and removing duplicate records, handling missing values, and treating outliers using the IQR method
