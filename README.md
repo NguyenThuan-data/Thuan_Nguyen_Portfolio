@@ -35,4 +35,16 @@
 
 
 ## Database Project
+
+### [Project 1: Wellington Transport Road-Works](https://github.com/NguyenThuan-data/Database_schoolPro_1)
+* The project for Wellington Transport (WT) involves developing a database to manage details of roads, road-works projects, staff, and contracts within their region.
+* The database stores comprehensive information on roads (ID, name, category, length, sub-section hierarchy), locations (ID, name, coordinates), projects (code, name, dates), staff (ID, roles over time), and contracts with external contractors (number, costs, dates, contractor details).
+* The project includes the design of the relational database schema, visualized through a physical model ERD (Entity Relationship Diagram) likely created in a tool like Visual Paradigm, which shows tables like Location, Road, Project, Staff, Contract, Role, and their relationships.
+* This database system is implemented using SQL, with table creation and sample data insertion to track road sub-sections, staff project assignments with roles and timeframes, and contract management, further demonstrated by data retrieval queries.
+
+
 ## Additional Project
+
+### [Bouncing Ball Simulation with Spinning Arc](https://github.com/NguyenThuan-data/bouncing_ball/tree/master)
+* This project is a simple 2D physics simulation of bouncing balls within a circular boundary, featuring a "Pac-Man-like" spinning arc that allows balls to escape. It's built using Pygame.
+* If one ball bounce out of the boundry, two new balls will be spawned inside.
