@@ -45,7 +45,7 @@ plugins:
 
 author:
   name   : "Thuan Nguyen"
-  avatar : "/assets/20250716_151232.jpg"
+  avatar : "/assets/avatar.jpg"
   bio    : "Third year Data Science and Cyber Security student seekings for internhip opportunities."
   links:
     - label: "GitHub"
