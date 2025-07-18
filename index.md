@@ -5,8 +5,6 @@
 layout: single
 author_profile: true
 ---
-# Projects Highlight and Overview
-
 ## Data Science Projects 
 
 ### [Project 1: Car Dataset Analysis](https://github.com/NguyenThuan-data/School_Project_1_Car_Analysis-)
