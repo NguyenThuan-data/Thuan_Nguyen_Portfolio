@@ -11,11 +11,11 @@ I'm a passionate and curious student pursuing a degree that doule majors in Data
 Below you'll find a selection of projects I've worked on, including Coursework projects and personal projects. Feel free to explore them and get in touch!
 
 ## Data Science Projects 
-
-### [Project 1: Car Dataset Analysis](https://github.com/NguyenThuan-data/School_Project_1_Car_Analysis-)
-* This project involves a comprehensive exploration and analysis of a car dataset to understand the key factors that influence car pricing, fuel efficiency, and market segmentation.
-* The analysis includes data preprocessing, visualizations, statistical summaries, and insights derived from multivariate techniques.
-
+### [Project 1: Walmart Analysis](https://github.com/NguyenThuan-data/Walmart_Sales_Analysis)
+* Executed a complete data lifecycle, starting with data acquisition from the **Kaggle API**, up to 10,000 records, followed by rigorous cleaning and transformation using a **Python** script.
+* Leveraged Python libraries like Pandas and NumPy for intensive data wrangling, including handling missing values, fixing data types, and performing feature engineering to create new columns like **Total Amount** for richer analysis.
+* Architected a data pipeline to load around 10,000 rows of cleaned data into a **PostgreSQL** database using **SQLAlchemy**, then authored complex SQL queries to uncover deep insights into sales patterns and customer behavior.
+* Successfully identified key performance indicators, including the most profitable product lines, top-performing branches by revenue, and peak shopping hours to inform staffing and inventory decisions.
 ### [Project 2: Employee Performance Analysis](https://github.com/NguyenThuan-data/School_Project_2_Employee_Performance_Analysis)
 * Analyzed a dataset of 7,000+ employee records across 20+ features to understand patterns and drivers of employee performance in a corporate environment
 * Conducted exploratory data analysis (EDA) using Python libraries (pandas, seaborn, matplotlib) to visualize trends, detect anomalies, and uncover feature relationships
@@ -47,6 +47,10 @@ Below you'll find a selection of projects I've worked on, including Coursework p
 * The database stores comprehensive information on roads (ID, name, category, length, sub-section hierarchy), locations (ID, name, coordinates), projects (code, name, dates), staff (ID, roles over time), and contracts with external contractors (number, costs, dates, contractor details).
 * The project includes the design of the relational database schema, visualized through a physical model ERD (Entity Relationship Diagram) likely created in a tool like Visual Paradigm, which shows tables like Location, Road, Project, Staff, Contract, Role, and their relationships.
 * This database system is implemented using SQL, with table creation and sample data insertion to track road sub-sections, staff project assignments with roles and timeframes, and contract management, further demonstrated by data retrieval queries.
+
+### [Project 7: Car Dataset Analysis](https://github.com/NguyenThuan-data/School_Project_1_Car_Analysis-)
+* This project involves a comprehensive exploration and analysis of a car dataset to understand the key factors that influence car pricing, fuel efficiency, and market segmentation.
+* The analysis includes data preprocessing, visualizations, statistical summaries, and insights derived from multivariate techniques.
 
 
 ## Additional Project
