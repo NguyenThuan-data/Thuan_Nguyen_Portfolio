@@ -1,4 +1,4 @@
-# Projects Highlight and Overview
+
 
 ## Data Science Projects 
 
