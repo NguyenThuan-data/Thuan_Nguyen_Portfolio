@@ -54,6 +54,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/thuannguyen-data/" 
+    - label: "Academic Transcript"
+      icon: "fas fa-fw fa-file-lines"
+      url: "https://www.myequals.net/sharelink/3959593a-e7da-4f92-a4aa-1e5629ad4a41/36260982-b875-4422-8f2d-34b3256f457c"
 
 
 defaults:
