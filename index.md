@@ -39,11 +39,7 @@ author_profile: true
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask
 
-
-
-## Database Project
-
-### [Project 1: Wellington Transport Road-Works](https://github.com/NguyenThuan-data/Database_schoolPro_1)
+### [Project 6: Wellington Transport Road-Works](https://github.com/NguyenThuan-data/Database_schoolPro_1)
 * The project for Wellington Transport (WT) involves developing a database to manage details of roads, road-works projects, staff, and contracts within their region.
 * The database stores comprehensive information on roads (ID, name, category, length, sub-section hierarchy), locations (ID, name, coordinates), projects (code, name, dates), staff (ID, roles over time), and contracts with external contractors (number, costs, dates, contractor details).
 * The project includes the design of the relational database schema, visualized through a physical model ERD (Entity Relationship Diagram) likely created in a tool like Visual Paradigm, which shows tables like Location, Road, Project, Staff, Contract, Role, and their relationships.
