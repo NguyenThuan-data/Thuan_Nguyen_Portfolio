@@ -8,7 +8,7 @@ author_profile: true
 kia Ora, I'm Thuan Nguyen
 I'm a passionate and curious student pursuing a degree that doule majors in Data Science and Cyber Security. I thrive on turning complex problems into easy-approach solutions. My goal is to leverage my skills in Data, Cyber and my love for learning to contribute to meaningful projects.
 
-Below you'll find a selection of projects I've worked on, including Coursework projects and personal projects. Feel free to explore them and get in touch!
+Below you'll find a selection of projects I've worked on, including coursework projects and personal projects. Feel free to explore them and get in touch!
 
 ## Data Science Projects 
 ### [Project 1: Walmart Analysis](https://github.com/NguyenThuan-data/Walmart_Sales_Analysis)
