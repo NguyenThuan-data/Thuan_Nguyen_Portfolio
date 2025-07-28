@@ -13,7 +13,7 @@ I'm a passionate and curious student pursuing a degree that double majors in Dat
 <span style = "font-size: 20px">Below you'll find a selection of projects I've worked on, including coursework projects and personal projects. Feel free to explore them and get in touch!
 
 <details markdown="1">
-<summary><h2>Data Science Projects</h2></summary>
+<summary><h2 style="display: inline;">Data Science Projects</h2></summary>
 
 ### [Project 1: Walmart Sales Analysis](https://github.com/NguyenThuan-data/Walmart_Sales_Analysis)
 * Executed a complete data lifecycle, starting with data acquisition from the **Kaggle API**, up to 10,000 records, followed by rigorous cleaning and transformation using a **Python** script.
@@ -60,7 +60,7 @@ I'm a passionate and curious student pursuing a degree that double majors in Dat
 <br>
 
 <details markdown="1">
-<summary><h2>Additional Project</h2></summary>
+<summary><h2 style="display: inline;">Additional Project</h2></summary>
 
 ### [Bouncing Ball Simulation with Spinning Arc](https://github.com/NguyenThuan-data/bouncing_ball/tree/master)
 * This project is a simple 2D physics simulation of bouncing balls within a circular boundary, featuring a "Pac-Man-like" spinning arc that allows balls to escape. It's built using Pygame.
