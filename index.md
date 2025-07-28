@@ -12,7 +12,7 @@ I'm a passionate and curious student pursuing a degree that double majors in Dat
 
 <span style = "font-size: 20px">Below you'll find a selection of projects I've worked on, including coursework projects and personal projects. Feel free to explore them and get in touch!
 
-<details>
+<details markdown="1">
 <summary><h2>Data Science Projects</h2></summary>
 
 ### [Project 1: Walmart Sales Analysis](https://github.com/NguyenThuan-data/Walmart_Sales_Analysis)
@@ -59,7 +59,7 @@ I'm a passionate and curious student pursuing a degree that double majors in Dat
 
 <br>
 
-<details>
+<details markdown="1">
 <summary><h2>Additional Project</h2></summary>
 
 ### [Bouncing Ball Simulation with Spinning Arc](https://github.com/NguyenThuan-data/bouncing_ball/tree/master)
