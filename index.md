@@ -7,10 +7,9 @@ author_profile: true
 toc: true
 toc_sticky: true
 ---
-<span style = "font-size: 20px">Kia Ora,
+<span style = "font-size: 20px">Kia Ora,I'm Thuan Nguyen
 
-I'm Thuan Nguyen
-I'm a passionate and curious student pursuing a degree that double majoring in Data Science, Network and CyberSecurity. I thrive on turning complex problems into easy-approach solutions. My goal is to leverage my skills in Data, Cyber and my love for learning to contribute to meaningful projects.
+<span style = "font-size: 20px">I'm a passionate and curious student pursuing a degree that double majoring in Data Science, Network and CyberSecurity. I thrive on turning complex problems into easy-approach solutions. My goal is to leverage my skills in Data, Cyber and my love for learning to contribute to meaningful projects.
 
 <span style = "font-size: 20px">Below you'll find a selection of projects I've worked on, including coursework projects and personal projects. Feel free to explore them and get in touch!
 
