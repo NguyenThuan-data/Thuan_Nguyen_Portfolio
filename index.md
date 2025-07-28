@@ -2,8 +2,10 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: splash
+layout: single
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 <span style = "font-size: 20px">kia Ora, I'm Thuan Nguyen
 I'm a passionate and curious student pursuing a degree that doule majors in Data Science and Cyber Security. I thrive on turning complex problems into easy-approach solutions. My goal is to leverage my skills in Data, Cyber and my love for learning to contribute to meaningful projects.
