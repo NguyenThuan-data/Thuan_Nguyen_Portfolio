@@ -2,13 +2,13 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
+layout: splash
 author_profile: true
 ---
 <span style = "font-size: 20px">kia Ora, I'm Thuan Nguyen
 I'm a passionate and curious student pursuing a degree that doule majors in Data Science and Cyber Security. I thrive on turning complex problems into easy-approach solutions. My goal is to leverage my skills in Data, Cyber and my love for learning to contribute to meaningful projects.
 
-Below you'll find a selection of projects I've worked on, including coursework projects and personal projects. Feel free to explore them and get in touch!</span>
+<span style = "font-size: 20px">Below you'll find a selection of projects I've worked on, including coursework projects and personal projects. Feel free to explore them and get in touch!
 
 ## Data Science Projects 
 ### [Project 1: Walmart Sales Analysis](https://github.com/NguyenThuan-data/Walmart_Sales_Analysis)
