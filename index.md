@@ -67,7 +67,7 @@ toc_sticky: true
 <br>
 
 <details markdown="1">
-<summary><h2 style="display: inline;">NetWork, CyberSecurity Projects and works</h2></summary>
+<summary><h2 style="display: inline;">Network, CyberSecurity Projects and works</h2></summary>
 
 ### [Operating Systems Projects – COMP604 (2025, AUT Semester 1)](https://github.com/NguyenThuan-data/Operating_System_Coursework)
 - **Process Scheduling:** FCFS, RR, Priority using custom `setnice()` and `getnice()`  
