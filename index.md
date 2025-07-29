@@ -69,7 +69,7 @@ toc_sticky: true
 <details markdown="1">
 <summary><h2 style="display: inline;">Network, CyberSecurity Projects and works</h2></summary>
 
-### [Operating Systems Projects – COMP604 (2025, AUT Semester 1)](https://github.com/NguyenThuan-data/Operating_System_Coursework)
+### [Operating Systems Projects(Assignments) – COMP604 (2025)](https://github.com/NguyenThuan-data/Operating_System_Coursework)
 - **Process Scheduling:** FCFS, RR, Priority using custom `setnice()` and `getnice()`  
 - **Kernel Synchronization:** Read-Write Semaphores (reader-writer problem)  
 - **Shell Scripting:** Text parsing and conditional file operations  
