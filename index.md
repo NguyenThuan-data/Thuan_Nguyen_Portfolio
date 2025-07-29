@@ -67,6 +67,23 @@ toc_sticky: true
 <br>
 
 <details markdown="1">
+<summary><h2 style="display: inline;">NetWork, CyberSecurity Projects and works</h2></summary>
+
+### [Operating Systems Projects – COMP604 (2025, AUT Semester 1)](https://github.com/NguyenThuan-data/Operating_System_Coursework)
+- **Process Scheduling:** FCFS, RR, Priority using custom `setnice()` and `getnice()`  
+- **Kernel Synchronization:** Read-Write Semaphores (reader-writer problem)  
+- **Shell Scripting:** Text parsing and conditional file operations  
+- **System Calls:** `ps`, `lseek()`, `pageAccess()`, `setnice()`, `getnice()`  
+- **Memory Management:** Page access tracking with bitmaps (`pageAccess`)  
+- **File Systems:** Inode and directory block consistency checking  
+- **File Seeking:** Custom implementation of `lseek()` syscall  
+
+* **Tech Stack**: <code>C</code> <code>Ubuntu</code> <code>WSL</code> <code>Operating System</code>
+</details>
+
+<br>
+
+<details markdown="1">
 <summary><h2 style="display: inline;">Additional Project</h2></summary>
 
 ### [Bouncing Ball Simulation with Spinning Arc](https://github.com/NguyenThuan-data/bouncing_ball/tree/master)
